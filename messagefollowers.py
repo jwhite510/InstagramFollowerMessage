@@ -1,5 +1,3 @@
-import imageio
-imageio.plugins.ffmpeg.download()
 from InstagramAPI import InstagramAPI
 import time
 import instagramcredentials

@@ -1,5 +1,3 @@
-import imageio
-imageio.plugins.ffmpeg.download()
 from InstagramAPI import InstagramAPI
 import tkinter as tk
 from tkinter import ttk
